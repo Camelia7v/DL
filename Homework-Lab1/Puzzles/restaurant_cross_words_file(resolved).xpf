@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Puzzles Version="1.0">
+<Puzzle>
+<Size>
+<Rows>10</Rows>
+<Cols>12</Cols>
+</Size>
+<Grid>
+<Row>~~BRASSERIE~</Row>
+<Row>~~~O~~~~~~~~</Row>
+<Row>~~STEAKHOUSE</Row>
+<Row>~~~I~~~~~~~~</Row>
+<Row>TEASHOP~~~~~</Row>
+<Row>~~~S~~~~~~~~</Row>
+<Row>CAFETERIA~~~</Row>
+<Row>~~~R~~~~~~~~</Row>
+<Row>~GRILLROOM~~</Row>
+<Row>~~~E~~~~~~~~</Row>
+</Grid>
+<Clues>
+<Clue Row="1" Col="3" Num="1" Dir="Across" Ans="BRASSERIE">![CDATA[a small restaurant serving beer and wine as well as food; usually cheap]]</Clue>
+<Clue Row="3" Col="3" Num="3" Dir="Across" Ans="STEAKHOUSE">![CDATA[a restaurant that specializes in steaks]]</Clue>
+<Clue Row="5" Col="1" Num="4" Dir="Across" Ans="TEASHOP">![CDATA[a restaurant where tea and light meals are available]]</Clue>
+<Clue Row="7" Col="1" Num="5" Dir="Across" Ans="CAFETERIA">![CDATA[a restaurant where you serve yourself and pay a cashier]]</Clue>
+<Clue Row="9" Col="2" Num="6" Dir="Across" Ans="GRILLROOM">![CDATA[a restaurant where food is cooked on a grill]]</Clue>
+<Clue Row="1" Col="4" Num="2" Dir="Down" Ans="ROTISSERIE">![CDATA[Synonym for None]]</Clue>
+</Clues>
+</Puzzle>
+</Puzzles>

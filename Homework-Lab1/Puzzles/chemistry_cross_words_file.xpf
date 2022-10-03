@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Puzzles Version="1.0">
+<Puzzle>
+<Size>
+<Rows>17</Rows>
+<Cols>22</Cols>
+</Size>
+<Grid>
+<Row>~                ~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~            ~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~               ~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~               ~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~              ~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>              ~~~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~              ~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~ ~~~~~~~~~~~~~~</Row>
+</Grid>
+<Clues>
+<Clue Row="1" Col="2" Num="1" Dir="Across" Ans="                ">![CDATA[branch of chemistry that deals with the chemical action of electricity and the production of electricity by chemical reactions]]</Clue>
+<Clue Row="3" Col="8" Num="3" Dir="Across" Ans="            ">![CDATA[the chemistry of the earth's crust]]</Clue>
+<Clue Row="5" Col="4" Num="4" Dir="Across" Ans="               ">![CDATA[the field of chemistry concerned with chemical processes in immunology (such as chemical studies of antigens and antibodies)]]</Clue>
+<Clue Row="7" Col="2" Num="5" Dir="Across" Ans="               ">![CDATA[the branch of chemistry that studies the relation between chemical action and the amount of heat absorbed or generated]]</Clue>
+<Clue Row="9" Col="3" Num="6" Dir="Across" Ans="              ">![CDATA[the branch of chemistry that studies elementary (often very fast) chemical reactions as they occur; the experimental methods are often based on the use of femtosecond laser pulses]]</Clue>
+<Clue Row="11" Col="1" Num="7" Dir="Across" Ans="              ">![CDATA[branch of chemistry that deals with the chemical action of light]]</Clue>
+<Clue Row="13" Col="5" Num="8" Dir="Across" Ans="              ">![CDATA[the chemistry of radioactive substances]]</Clue>
+<Clue Row="1" Col="8" Num="2" Dir="Down" Ans=" RGANIC_CHEMISTRY">![CDATA[the chemistry of compounds containing carbon (originally defined as the chemistry of substances produced by living organisms but now extended to substances synthesized artificially)]]</Clue>
+</Clues>
+</Puzzle>
+</Puzzles>

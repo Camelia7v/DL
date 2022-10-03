@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Puzzles Version="1.0">
+<Puzzle>
+<Size>
+<Rows>13</Rows>
+<Cols>19</Cols>
+</Size>
+<Grid>
+<Row>~~~~~SCINTILLATION~</Row>
+<Row>~~~~~~~N~~~~~~~~~~~</Row>
+<Row>FLUORESCENCE~~~~~~~</Row>
+<Row>~~~~~~~A~~~~~~~~~~~</Row>
+<Row>~~~LUMINESCENCE~~~~</Row>
+<Row>~~~~~~~D~~~~~~~~~~~</Row>
+<Row>~~CANDLELIGHT~~~~~~</Row>
+<Row>~~~~~~~S~~~~~~~~~~~</Row>
+<Row>~~~~~~~COUNTERGLOW~</Row>
+<Row>~~~~~~~E~~~~~~~~~~~</Row>
+<Row>~~~~MOONLIGHT~~~~~~</Row>
+<Row>~~~~~~~C~~~~~~~~~~~</Row>
+<Row>~~~~FIRELIGHT~~~~~~</Row>
+</Grid>
+<Clues>
+<Clue Row="1" Col="6" Num="1" Dir="Across" Ans="SCINTILLATION">![CDATA[(physics) a flash of light that is produced in a phosphor when it absorbs a photon or ionizing particle]]</Clue>
+<Clue Row="3" Col="1" Num="3" Dir="Across" Ans="FLUORESCENCE">![CDATA[light emitted during absorption of radiation of some other (invisible) wavelength]]</Clue>
+<Clue Row="5" Col="4" Num="4" Dir="Across" Ans="LUMINESCENCE">![CDATA[Synonym for glow]]</Clue>
+<Clue Row="7" Col="3" Num="5" Dir="Across" Ans="CANDLELIGHT">![CDATA[Synonym for candle_flame]]</Clue>
+<Clue Row="9" Col="8" Num="6" Dir="Across" Ans="COUNTERGLOW">![CDATA[a faint spot of light in the night sky that appears directly opposite the position of the sun; a reflection of sunlight by micrometeoric material in space]]</Clue>
+<Clue Row="11" Col="5" Num="7" Dir="Across" Ans="MOONLIGHT">![CDATA[the light of the Moon]]</Clue>
+<Clue Row="13" Col="5" Num="8" Dir="Across" Ans="FIRELIGHT">![CDATA[the light of a fire (especially in a fireplace)]]</Clue>
+<Clue Row="1" Col="8" Num="2" Dir="Down" Ans="INCANDESCENCE">![CDATA[the phenomenon of light emission by a body as its temperature is raised]]</Clue>
+</Clues>
+</Puzzle>
+</Puzzles>

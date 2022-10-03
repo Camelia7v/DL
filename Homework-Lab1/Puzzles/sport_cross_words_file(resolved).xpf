@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Puzzles Version="1.0">
+<Puzzle>
+<Size>
+<Rows>11</Rows>
+<Cols>18</Cols>
+</Size>
+<Grid>
+<Row>~~~FUNAMBULISM~~~~</Row>
+<Row>~~~~~~~~L~~~~~~~~~</Row>
+<Row>WATER_SPORT~~~~~~~</Row>
+<Row>~~~~~~~~O~~~~~~~~~</Row>
+<Row>~~~~~SLEDDING~~~~~</Row>
+<Row>~~~~~~~~_~~~~~~~~~</Row>
+<Row>~~~GYMNASTICS~~~~~</Row>
+<Row>~~~~~~~~P~~~~~~~~~</Row>
+<Row>~TEAM_SPORT~~~~~~~</Row>
+<Row>~~~~~~~~R~~~~~~~~~</Row>
+<Row>~~~~~SKATING~~~~~~</Row>
+</Grid>
+<Clues>
+<Clue Row="1" Col="4" Num="1" Dir="Across" Ans="FUNAMBULISM">![CDATA[walking on a tightrope or slack rope]]</Clue>
+<Clue Row="3" Col="1" Num="3" Dir="Across" Ans="WATER_SPORT">![CDATA[sports that involve bodies of water]]</Clue>
+<Clue Row="5" Col="6" Num="4" Dir="Across" Ans="SLEDDING">![CDATA[the sport of riding on a sled or sleigh]]</Clue>
+<Clue Row="7" Col="4" Num="5" Dir="Across" Ans="GYMNASTICS">![CDATA[Synonym for gymnastic_exercise]]</Clue>
+<Clue Row="9" Col="2" Num="6" Dir="Across" Ans="TEAM_SPORT">![CDATA[a sport that involves competition between teams of players]]</Clue>
+<Clue Row="11" Col="6" Num="7" Dir="Across" Ans="SKATING">![CDATA[the sport of gliding on skates]]</Clue>
+<Clue Row="1" Col="9" Num="2" Dir="Down" Ans="BLOOD_SPORT">![CDATA[sport that involves killing animals (especially hunting)]]</Clue>
+</Clues>
+</Puzzle>
+</Puzzles>

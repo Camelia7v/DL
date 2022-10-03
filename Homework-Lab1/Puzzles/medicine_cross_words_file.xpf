@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Puzzles Version="1.0">
+<Puzzle>
+<Size>
+<Rows>16</Rows>
+<Cols>25</Cols>
+</Size>
+<Grid>
+<Row>                ~~~~~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~               ~~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~               ~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~~              ~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~             ~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~~~~             ~~~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>~~            ~~~~~~~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+<Row>            ~~~~~~~~~~~~~</Row>
+<Row>~~~~~~~~~~ ~~~~~~~~~~~~~~</Row>
+</Grid>
+<Clues>
+<Clue Row="1" Col="1" Num="1" Dir="Across" Ans="                ">![CDATA[the medical specialty that deals with diseases of the ear, nose and throat]]</Clue>
+<Clue Row="3" Col="5" Num="3" Dir="Across" Ans="               ">![CDATA[the branch of medicine dealing with mental disorders attributable to diseases of the nervous system]]</Clue>
+<Clue Row="5" Col="8" Num="4" Dir="Across" Ans="               ">![CDATA[the branch of medicine concerned with the treatment of injuries or illness resulting from athletic activities]]</Clue>
+<Clue Row="7" Col="9" Num="5" Dir="Across" Ans="              ">![CDATA[the branch of medical science that studies and applies anesthetics]]</Clue>
+<Clue Row="9" Col="8" Num="6" Dir="Across" Ans="             ">![CDATA[the branch of medicine concerned with the eye and its diseases]]</Clue>
+<Clue Row="11" Col="6" Num="7" Dir="Across" Ans="             ">![CDATA[the branch of medicine dealing with the endocrine glands and their secretions]]</Clue>
+<Clue Row="13" Col="3" Num="8" Dir="Across" Ans="            ">![CDATA[the branch of medical science that studies bacteria in relation to disease]]</Clue>
+<Clue Row="15" Col="1" Num="9" Dir="Across" Ans="            ">![CDATA[the branch of medical science dealing with the transmission and control of disease]]</Clue>
+<Clue Row="1" Col="11" Num="2" Dir="Down" Ans="                ">![CDATA[the branch of medicine that studies the gastrointestinal tract and its diseases]]</Clue>
+</Clues>
+</Puzzle>
+</Puzzles>
