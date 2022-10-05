@@ -58,12 +58,46 @@ def get_antonym(word):
         return None
 
 
+# def has_synonysms(word):
+#     try:
+#         synonym_list = []
+#         for synset in wn.synsets(word):
+#             for lemma in synset.lemmas():
+#                 synonym_list.append(lemma.name())
+#     except:
+#         return False
+#
+#     if len(synonym_list) > 1:
+#         print(synonym_list, "\n")
+#         return True
+#     else:
+#         return False
+#
+#
+# def has_antonyms(word):
+#     try:
+#         antonym_list = []
+#         for synset in wn.synsets(word):
+#             for lemma in synset.lemmas():
+#                 if lemma.antonyms():
+#                     antonym_list.append(lemma.antonyms()[0].name())
+#     except:
+#         return False
+#
+#     if len(antonym_list) > 0:
+#         print(antonym_list, "\n")
+#         return True
+#     else:
+#         return False
+
+
 def remove_expression(words_list):  # keep only single words
     for word in words_list:
         for character in word:
             if character in string.punctuation:
                 words_list.remove(word)
                 break
+    # words_list = list(dict.fromkeys(words_list))
 
 
 def get_words_and_clues(domain):
@@ -85,3 +119,19 @@ def get_words_and_clues(domain):
         words_list[i] = words_list[i].upper()
 
     return words_list, questions_list
+
+
+# if __name__ == "__main__":
+#     input_domain = input("Type a domain: ")
+#
+#     hyponims = get_hyponyms(input_domain)
+#     hypernims = get_hypernyms(input_domain)
+#
+#     # print("Hyponims:", hyponims)
+#     print("Hypernyms:", hypernims)
+#
+#     for hyponim in hyponims:
+#         print(hyponim, ", ", get_def(hyponim), ", ", get_synonym(hyponim), ", ", get_antonym(hyponim))
+#
+#     print(get_words_and_clues(input_domain))
+

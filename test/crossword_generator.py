@@ -17,10 +17,10 @@ class ClueProp:
 
 
 class CrossWord:
-    def __init__(self, cross_word_text: str):
+    def __init__(self, cross_word_text: str) -> None:
         self.cross_word_text = cross_word_text
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"<Row>{self.cross_word_text.upper()}</Row>\n"
 
 
@@ -31,7 +31,7 @@ class Clue:
                  num: int,
                  orientation: Orientation,
                  ans: str,
-                 clue_text: str):
+                 clue_text: str) -> None:
         self.row = row
         self.col = col
         self.num = num
@@ -39,7 +39,7 @@ class Clue:
         self.clue_text = clue_text
         self.orientation = orientation
 
-    def __str__(self):
+    def __str__(self) -> str:
         return f"<Clue Row=\"{self.row}\" " \
                f"Col=\"{self.col}\" " \
                f"Num=\"{self.num}\" " \
@@ -49,7 +49,7 @@ class Clue:
 
 
 class CrossWordsGenerator:
-    def __init__(self, raw_cross_words: List[str]):
+    def __init__(self, raw_cross_words: List[str]) -> None:
         self.raw_cross_words = raw_cross_words
 
         self.keyword = raw_cross_words[0]
